@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name                搜索引擎关键字内容阻挡器
-// @namespace      BlockAnyThingYouWant
+// @namespace      SearchEngineContentBlockerScript 
 // @match               http://www.baidu.com/*
 // @match               https://www.baidu.com/*
 // @match               https://m.baidu.com/*
