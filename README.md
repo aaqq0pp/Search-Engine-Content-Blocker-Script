@@ -1,4 +1,4 @@
-# Search-Engine-Content-blocker-Script
+# Search-Engine-Content-blocker-Script  
 
-A simple search engine content blocker script. 
-Supported Search Engine: **Google**, **Bing**, **Baidu**, **Quark**
+A simple search engine content blocker script.   
+Supported Search Engine: **Google**, **Bing**, **Baidu**, **Quark**.  
