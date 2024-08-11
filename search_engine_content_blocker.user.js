@@ -14,8 +14,8 @@
 // @author              aaqq0pp
 // @version             1.0.0.20240810
 // @description         屏蔽搜索引擎结果中的自定义关键词
-// @downloadURL         https://github.com/aaqq0pp/Search-Engine-Content-blocker-Script/blob/main/search_engine_content_blocker.user.user.js
-// @updateURL           https://github.com/aaqq0pp/Search-Engine-Content-blocker-Script/blob/main/search_engine_content_blocker.user.user.js
+// @downloadURL         https://github.com/aaqq0pp/Search-Engine-Content-blocker-Script/blob/main/search_engine_content_blocker.user.js
+// @updateURL           https://github.com/aaqq0pp/Search-Engine-Content-blocker-Script/blob/main/search_engine_content_blocker.user.js
 // ==/UserScript==
 
 // 黑名单关键词列表，以 "||" 分隔每个关键词
