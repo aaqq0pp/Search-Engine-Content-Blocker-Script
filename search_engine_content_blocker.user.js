@@ -12,7 +12,7 @@
 // @match               /^https?\:\/\/www.youdao.com/
 // @require             http://code.jquery.com/jquery-1.8.0.min.js
 // @author              aaqq0pp
-// @version             1.0.1.20240811
+// @version             1.0.1.20240811001
 // @description         屏蔽搜索引擎结果中的自定义关键词
 // @downloadURL         https://github.com/aaqq0pp/Search-Engine-Content-blocker-Script/raw/main/search_engine_content_blocker.user.js
 // @updateURL           https://github.com/aaqq0pp/Search-Engine-Content-blocker-Script/raw/main/search_engine_content_blocker.user.js
